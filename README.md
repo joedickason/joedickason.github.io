@@ -3,7 +3,8 @@
 <joedickason@gmail.com>
 <br>[615.618.6619](tel:6156186619)
 <br>[JoeDickasonResume.pdf](docs/JoeDickasonResume.pdf)
-
+<br>
+<br>
 ## Portfolio
 ---
 ### UptimeHealth
