@@ -1,8 +1,8 @@
 # Joe Dickason
 ## Senior Product Manager
 <joedickason@gmail.com>
-[615.618.6619](tel:6156186619)
-[JoeDickasonResume.pdf](docs/JoeDickasonResume.pdf)
+<br>[615.618.6619](tel:6156186619)
+<br>[JoeDickasonResume.pdf](docs/JoeDickasonResume.pdf)
 
 ## Portfolio
 ---
@@ -21,7 +21,13 @@
 
 ---
 ### SemanticBits
-| Document | Description |
-| --- | ----------- |
-| Doc1 | Desc1 |
-| doc2 | desc2 |
+<table>
+  <tr>
+    <td>Doc1</td>
+    <td>Desc1</td>
+  </tr>
+  <tr>
+    <td>Doc2</td>
+    <td>Desc2</td>
+  </tr>
+</table>
