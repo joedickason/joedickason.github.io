@@ -2,7 +2,7 @@
 ## Senior Product Manager
 <joedickason@gmail.com>
 <br>[615.618.6619](tel:6156186619)
-<br>[JoeDickasonResume.pdf](docs/JoeDickasonResume.pdf)
+<br>[JoeDickasonResume.pdf](files/JoeDickasonResume.pdf)
 <br>
 <br>
 ## Portfolio
