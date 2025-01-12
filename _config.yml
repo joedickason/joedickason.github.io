@@ -1,5 +1,5 @@
 title:
 logo: /files/prodmgr.png
-description: Product Manager image is AI-generated - see <a href="/files/imageprompt.txt">the prompt</a> .
+description: Product Manager image is AI-generated - see <a href="/files/imageprompt.md">the prompt</a> .
 #show_downloads:false
 theme: jekyll-theme-minimal
