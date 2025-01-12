@@ -8,20 +8,45 @@
 ## Portfolio
 ---
 ### UptimeHealth
-| Document | Description |
-| --- | ----------- |
-| Doc1 | Desc1 |
-| doc2 | desc2 |
+<table>
+  <tr>
+    <td>Doc1</td>
+    <td>Desc1</td>
+  </tr>
+  <tr>
+    <td>Doc2</td>
+    <td>Desc2</td>
+  </tr>
+</table>
 
 ---
 ### PatientPop / Tebra
-| Document | Description |
-| --- | ----------- |
-| Doc1 | Desc1 |
-| doc2 | desc2 |
+<table>
+  <tr>
+    <td>Doc1</td>
+    <td>Desc1</td>
+  </tr>
+  <tr>
+    <td>Doc2</td>
+    <td>Desc2</td>
+  </tr>
+</table>
 
 ---
 ### SemanticBits
+<table>
+  <tr>
+    <td>Doc1</td>
+    <td>Desc1</td>
+  </tr>
+  <tr>
+    <td>Doc2</td>
+    <td>Desc2</td>
+  </tr>
+</table>
+
+---
+### Qualifacts
 <table>
   <tr>
     <td>Doc1</td>
