@@ -18,6 +18,7 @@
     <td>Desc2</td>
   </tr>
 </table>
+<br>
 
 ### PatientPop / Tebra
 <table>
@@ -30,6 +31,7 @@
     <td>Desc2</td>
   </tr>
 </table>
+<br>
 
 ### SemanticBits
 <table>
@@ -42,6 +44,7 @@
     <td>Desc2</td>
   </tr>
 </table>
+<br>
 
 ### Qualifacts
 <table>
