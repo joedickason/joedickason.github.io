@@ -1,7 +1,7 @@
 # Joe Dickason
 ## Senior Product Manager
 <joedickason@gmail.com>
-<br><img src="files/iconphone.png" width="50" height="50">[615.618.6619](tel:6156186619)
+<br><img src="files/iconphone.png" width="30" height="30">  [615.618.6619](tel:6156186619)
 <br>[JoeDickasonResume.pdf](files/JoeDickasonResume.pdf)
 <br>
 <br>
