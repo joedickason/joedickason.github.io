@@ -19,7 +19,6 @@
   </tr>
 </table>
 
----
 ### PatientPop / Tebra
 <table>
   <tr>
@@ -32,7 +31,6 @@
   </tr>
 </table>
 
----
 ### SemanticBits
 <table>
   <tr>
@@ -45,7 +43,6 @@
   </tr>
 </table>
 
----
 ### Qualifacts
 <table>
   <tr>
